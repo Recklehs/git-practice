@@ -1,8 +1,10 @@
-team: Tigers
+team : Tigers
 
 manager : John
 
 members:
-  - Linda
-  - William
-  - David
+  -Linda
+  -William
+  -David
+
+  
